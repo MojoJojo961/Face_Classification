@@ -1,2 +1,2 @@
 # Face_Classification
-Classification of face using Deep CNN. The model should be able to classify the image as belonging to the same person or not.
+Experiments done on finding best hyperparameters for a InceptionV3 model on CIFAR-10 dataset.
